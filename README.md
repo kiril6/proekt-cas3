@@ -8,3 +8,7 @@ spisok na studenti za ovaa vezba
 
 - Kiril Delovski
 - Dragan Grujoskig
+- Katerina Trifunovska
+- Stefan Panov
+- Katerina Trajkovska
+- Kristina Ackovska
