@@ -8,3 +8,4 @@ spisok na studenti za ovaa vezba
 
 - Kiril Delovski
 - Katerina Trajkovska
+- Kristina Ackovska
