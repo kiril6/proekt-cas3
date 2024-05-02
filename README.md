@@ -7,5 +7,6 @@ spisok na studenti za ovaa vezba
 ## Studenti
 
 - Kiril Delovski
+- Stefan Panov
 - Katerina Trajkovska
 - Kristina Ackovska
