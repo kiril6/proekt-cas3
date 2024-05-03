@@ -11,3 +11,4 @@ spisok na studenti za ovaa vezba
 - Stefan Panov
 - Katerina Trajkovska
 - Kristina Ackovska
+- Aleksandar Stojkov
