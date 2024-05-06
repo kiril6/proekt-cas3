@@ -8,3 +8,9 @@ spisok na studenti za ovaa vezba
 
 - Kiril Delovski
 - Daniela Ustapetrova
+- Ibrahim Sulemani
+- Katerina Trifunovska
+- Stefan Panov
+- Katerina Trajkovska
+- Kristina Ackovska
+- Aleksandar Stojkov
