@@ -18,3 +18,4 @@ spisok na studenti za ovaa vezba
 - Katerina Trajkovska
 - Kristina Ackovska
 - Aleksandar Stojkov
+- Vaska Baltoska
